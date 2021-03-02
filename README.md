@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SabrinaKall
 - 👀 I’m interested in software development, cloud computing, data science and artificial intelligence
-- 🌱 I’m currently learning about angular and the AWS Cloud
+- 🌱 I’m currently learning about Angular, Ruby and the AWS Cloud
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: sabrina.kall@protonmail.com
 
